@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    background-color: blueviolet;
+}
+
+header{
+
+    font-size: 30px;
+}
+p{
+    background-color: rgb(69, 0, 138);
+    color: rgb(202, 8, 128);
+    border-radius: 25px;
+    padding: 15px;
+}
+
+a{
+    color: brown;
+    background-color: cadetblue;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+
+
+header{
+
+    background-color: rgb(86, 14, 255);
+    border-radius: 12px;
+    
+}
+h2{
+    color: red;
+    background-color: chartreuse;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+header a{
+    padding: 5px;
+    margin-left: 30px;
+    font-size: 25px;
+    
+}
+nav{
+    position: relative;
+    top: -20px;
+    left: 135px;
+}
+h1{
+    text-align: center;
+}
+iframe{
+    width: 800px;
+}
+
+footer a{
+   padding: 5px;
+   margin-bottom: 10px;
+   
+}
+.foot{
+    height: 100px;
+    display: flex;
+    width: 250px;
+    flex-wrap: wrap;
+}
+.instagram::before{
+content: url(https://img.icons8.com/?size=48&id=ZRiAFreol5mE&format=gif);
+display: inline;
+
+}
+.disc:before{
+content: url(https://img.icons8.com/?size=64&id=61604&format=png);
+display: inline;
+
+}
+.epic::before{
+content: url(https://img.icons8.com/?size=64&id=KsAukArNgUDv&format=png);
+display: inline;
+
+}
