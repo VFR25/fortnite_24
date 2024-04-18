@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(9, 156, 224);
+}
+
+header{
+
+    font-size: 30px;
+}
+p{
+    background-color: rgb(0, 17, 255);
+    color: rgb(0, 255, 76);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+a{
+    color: rgb(0, 252, 252);
+    background-color: cadetblue;
+    border-radius: 5px;
+    text-align: center;
+    
+   
+}
+.text{
+margin-left: 130px;
+}
+.maps{
+    width: 200px;
+    height: 250px;
+}
+div{
+
+    display: flex ;
+    flex-wrap: wrap;
+}
+.name{
+    display: flex;
+}
+img{
+    margin-left: 20px;
+}
+
+header{
+
+    background-color: rgb(0, 47, 255);
+    border-radius: 12px;
+    color: white;
+    margin-left: 120px;
+    padding: 10px;
+}
+h2{
+    color: rgb(0, 38, 255);
+    background-color: rgb(0, 255, 213);
+    border-radius: 10px;
+    padding: 15px;
+}
+.text2{
+   margin-left: 110px;
+}
+footer a{
+   padding: 5px;
+   margin-bottom: 10px;
+   
+}
+.foot{
+    height: 100px;
+    display: flex;
+    width: 250px;
+    flex-wrap: wrap;
+}
+.instagram::before{
+content: url(https://img.icons8.com/?size=48&id=ZRiAFreol5mE&format=gif);
+display: inline;
+
+}
+.disc:before{
+content: url(https://img.icons8.com/?size=64&id=61604&format=png);
+display: inline;
+
+}
+.epic::before{
+content: url(https://img.icons8.com/?size=64&id=KsAukArNgUDv&format=png);
+display: inline;
+
+}
+
+
+
