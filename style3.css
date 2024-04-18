@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(71, 124, 183);
+}
+
+h1{
+    background-color: rgb(135, 135, 255) ;
+    border-radius: 10px;
+    padding: 10px;
+    }
+    h2{
+        background-image: linear-gradient(azure,blue);
+        padding: 15px;
+        border-radius: 5px;
+    }
+
+    p{
+        border-radius:20% ;
+        text-decoration: crimson;
+        background-color: rgb(62, 188, 79);
+        text-align: center;
+        padding: 15px;
+    }
+
+    img{
+        border-radius: 15px;
+       
+        margin-left:250px ;}
+
+        
+
+    
+
+    a{
+        
+        background-color: chocolate;
+        border-radius: 5px;
+        
+    }
+    footer a{
+   padding: 5px;
+   margin-bottom: 10px;
+   
+}
+.foot{
+    height: 100px;
+    display: flex;
+    width: 250px;
+    flex-wrap: wrap;
+}
+.instagram::before{
+content: url(https://img.icons8.com/?size=48&id=ZRiAFreol5mE&format=gif);
+display: inline;
+
+}
+.disc:before{
+content: url(https://img.icons8.com/?size=64&id=61604&format=png);
+display: inline;
+
+}
+.epic::before{
+content: url(https://img.icons8.com/?size=64&id=KsAukArNgUDv&format=png);
+display: inline;
+
+}
